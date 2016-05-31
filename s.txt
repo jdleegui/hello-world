@@ -1,3 +1,4 @@
+[git]
 - https://docs.google.com/spreadsheets/d/1_jxg9Ma23P2GiMZd75lsU-aHYp8qoPqUXMC63eCGXlU/edit?pref=2&pli=1#gid=264151967
 - sudo apt-get install openssh-server
 - lsb_release -r
